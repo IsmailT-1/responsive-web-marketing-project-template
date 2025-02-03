@@ -1,3 +1,7 @@
 User-agent: *
 Disallow:
 Sitemap: https://snowboarder-unite-01.netlify.app/sitemap.xml
+
+User-agent: *
+Allow: /
+Sitemap: https://snowboarder-unite-01.netlify.app/sitemap.xml
