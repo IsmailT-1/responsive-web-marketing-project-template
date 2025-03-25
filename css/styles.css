@@ -107,6 +107,12 @@ header h2 { /* 40px is 2.083%  of 1920px */
 	color: #557763;
 }
 
+.logo {
+	max-width: 15rem;
+	display: inline;
+
+}
+
 h1, h2, h3 {
 	font-family: 'Architects Daughter', cursive;
 	color: #427ac1;
