@@ -196,6 +196,27 @@ main {
   	width: 80%;
 }
 
+.middle {
+	width: 40%;
+}
+
+.flex-container {
+	display: flex;
+	gap: 1rem;
+	width: 75%;
+	justify-content: center;
+	margin-left: 6rem;
+	margin-bottom: 2rem;
+}
+
+.left {
+	width: 40%;
+}
+
+.right {
+	width: 40%;
+}
+
 article img {
 	border: none;
 	-webkit-box-shadow: 3px 3px 7px #777;
